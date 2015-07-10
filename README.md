@@ -9,8 +9,22 @@ Now, inserting images seems to be an easy task:
 
 ![Hebe](http://www.urgente24.com/sites/default/files/notas/2014/07/02/Hebe-de-Bonafini.jpg "Thinking")
 
+And quoting a text:
+
+> Life is a tale
+> told by an idiot
+
+```FORTRAN
+PROGRAM Test
+  IMPLICIT NONE
+  REAL, PARAMETER :: PI = ACOS(-1.0)
+
+  PRINT *, "Value of PI is ", PI
+END PROGRAM Test
+```
+
 ~~TODO~~
-----
+---
 
 It's a good way to also learn some [markdown][] in the way tough. :smile:
 

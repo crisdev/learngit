@@ -14,6 +14,8 @@ And quoting a text:
 > Life is a tale
 > told by an idiot
 
+Then a bit of code. In this case, some FORTRAN:
+
 ```FORTRAN
 PROGRAM Test
   IMPLICIT NONE

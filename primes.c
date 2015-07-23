@@ -10,7 +10,7 @@ int main(void)
 
 	printf("Plese, enter a positive number: ");
 	scanf("%d", &number);
-	i = number - 1;
+	i = number - 1;  // number is divisible by itself, don't check it
 
 	while (i > 1 && isPrime)
 	{
@@ -30,5 +30,6 @@ int main(void)
 	{
 		printf("Number is not prime.\n");
 	}
+
 	return 0;
 }

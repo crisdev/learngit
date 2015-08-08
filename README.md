@@ -39,3 +39,13 @@ It's a good way to also learn some [markdown][] in the way tough. :smile:
 
 
 [markdown]: http://markdown.com "Don't clic here"
+
+Some Java here:
+
+```java
+public Class automovil {
+	public static void main(String[] args) {
+		automovil Peugeot = new automovil("Peugeot", 405);
+	}
+}
+```

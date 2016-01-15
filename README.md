@@ -9,7 +9,7 @@ The purpose of this repository is to *practice* with some git commands.
 
 Now, inserting images seems to be an easy task:
 
-![Hebe](http://www.urgente24.com/sites/default/files/notas/2014/07/02/Hebe-de-Bonafini.jpg "Thinking")
+![Hebe](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hebe_de_Bonafini_2015_(cropped).jpg/200px-Hebe_de_Bonafini2015_(cropped).jpg "Hebe")
 
 And quoting a text:
 

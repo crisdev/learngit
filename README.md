@@ -7,11 +7,8 @@ The purpose of this repository is to *practice* with some git commands.
 
 ![Be patient!](http://bucket3.clanacion.com.ar/anexos/fotos/72/1952272w88.jpg "Test")
 
-Now, inserting images seems to be an easy task:
 
-![Hebe](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hebe_de_Bonafini_2015_(cropped).jpg/200px-Hebe_de_Bonafini2015_(cropped).jpg "Hebe")
-
-And quoting a text:
+Quoting a text is an easy task:
 
 > Life is a tale
 > told by an idiot

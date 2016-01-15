@@ -12,6 +12,8 @@ Quoting a text is an easy task:
 
 > Life is a tale
 > told by an idiot
+>
+> William Shakespeare
 
 Then a bit of code. In this case, some FORTRAN:
 

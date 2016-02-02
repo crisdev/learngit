@@ -24,12 +24,17 @@ int main(void)
 		printf("Please enter a number: ");
 		scanf("%d", &number.reading);
 
-		if (number.reading > 0)
+		if (number.reading > 0) {
 			printf("Number is greater than zero.\n");
-		else if (number.reading < 0)
-			fprintf(stderr, "Number is negative.\n");
-		else
-			printf("Number is zero.\n");
+		}
+		else { 
+			if (number.reading < 0) {
+				fprintf(stderr, "Number is negative.\n");
+			}
+			else {
+				printf("Number is zero.\n");
+			}
+		}
 		
 		printf("Do another operation? ");
 		scanf(" %c", &answer);

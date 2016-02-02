@@ -53,3 +53,5 @@ You can visit some great sites:
 
 * [La Nación](http://www.lanacion.com.ar "Diario La Nación")
 * [Clarín](http://www.clarin.com "Diario Clarín")
+
+It is never too late to say goodbye.

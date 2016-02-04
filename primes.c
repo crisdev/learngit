@@ -22,6 +22,7 @@ int main(void)
 		i--;	
 	}
 
+	// Informs the user
 	if (isPrime)
 	{
 		printf("Number is prime.\n");

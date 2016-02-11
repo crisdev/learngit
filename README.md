@@ -1,7 +1,7 @@
 Short notes
 ===========
 
-The purpose of this repository is to *practice* with some git commands. 
+The purpose of this repository is to *practice* with some git commands.
 
 ~~It will be deleted shortly after that.~~
 
@@ -25,6 +25,8 @@ PROGRAM Test
   PRINT *, "Value of PI is ", PI
 END PROGRAM Test
 ```
+
+But you can always ´import  code´ using backtics.
 
 [Check my new code](./new.c)
 
@@ -54,4 +56,4 @@ You can visit some great sites:
 * [La Nación](http://www.lanacion.com.ar "Diario La Nación")
 * [Clarín](http://www.clarin.com "Diario Clarín")
 
-It is never too late to say goodbye.
+It is never too late to say goodbye. _Or to poke someone_. @github/oscarvincen

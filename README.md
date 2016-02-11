@@ -56,4 +56,9 @@ You can visit some great sites:
 * [La Nación](http://www.lanacion.com.ar "Diario La Nación")
 * [Clarín](http://www.clarin.com "Diario Clarín")
 
-It is never too late to say goodbye. _Or to poke someone_. @github/oscarvincen
+It is never too late to say goodbye. _Or to poke someone_.
+
+<dl>
+<dt>Compuesto</dd>
+<dd>Un componente químico es una mezcla de elementos en proporciones definidas.</dd>
+</dl>

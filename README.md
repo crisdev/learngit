@@ -1,18 +1,19 @@
 Short notes
 ===========
 
-The purpose of this repository is to *practice* with some git commands. It will be deleted shortly after that.
+The purpose of this repository is to *practice* with some git commands.
+
+~~It will be deleted shortly after that.~~
 
 ![Be patient!](http://bucket3.clanacion.com.ar/anexos/fotos/72/1952272w88.jpg "Test")
 
-Now, inserting images seems to be an easy task:
 
-![Hebe](http://www.urgente24.com/sites/default/files/notas/2014/07/02/Hebe-de-Bonafini.jpg "Thinking")
-
-And quoting a text:
+Quoting a text is an easy task:
 
 > Life is a tale
 > told by an idiot
+>
+> William Shakespeare
 
 Then a bit of code. In this case, some FORTRAN:
 
@@ -25,13 +26,39 @@ PROGRAM Test
 END PROGRAM Test
 ```
 
-~~TODO~~
+But you can always ´import  code´ using backtics.
+
+[Check my new code](./new.c)
+
+TODO LIST
 ---
 
 It's a good way to also learn some [markdown][] in the way tough. :smile:
 
-- [ ] Watch a movie
-- [x] Learn to code
+- [x] Watch a movie
+- [ ] Learn to code
 
 
 [markdown]: http://markdown.com "Don't clic here"
+
+Some Java here:
+
+```java
+public Class automovil {
+	public static void main(String[] args) {
+		automovil Peugeot = new automovil("Peugeot", 405);
+	}
+}
+```
+
+You can visit some great sites:
+
+* [La Nación](http://www.lanacion.com.ar "Diario La Nación")
+* [Clarín](http://www.clarin.com "Diario Clarín")
+
+It is never too late to say goodbye. _Or to poke someone_.
+
+<dl>
+<dt>Compuesto</dd>
+<dd>Un componente químico es una mezcla de elementos en proporciones definidas.</dd>
+</dl>

@@ -62,3 +62,5 @@ It is never too late to say goodbye. _Or to poke someone_.
 <dt>Compuesto</dd>
 <dd>Un componente químico es una mezcla de elementos en proporciones definidas.</dd>
 </dl>
+
+![Carlitos](http://www.quickmeme.com/img/3f/3f1a1ff290bdfa581fe0da4072783173d2d928af249caea12a54f305b4cd9b35.jpg)

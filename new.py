@@ -5,4 +5,6 @@ def say_hello(name):
     print("Hello " + name)
 
 name = input("Please, state your name: ")
-say_hello(name)
+
+for i in range(10):
+    say_hello(name)
